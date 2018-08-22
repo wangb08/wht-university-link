@@ -1,6 +1,6 @@
 var univ_list = {
     school: "兰州大学",
-    id: "1001",
+    id: "14001",
     link: [ {
         name: "兰大主页",
         url: "http://www.lzu.edu.cn/"
