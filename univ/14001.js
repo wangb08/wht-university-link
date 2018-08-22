@@ -1,5 +1,5 @@
 var univ_list = {
-    school: "兰州大学大学",
+    school: "兰州大学",
     id: "1001",
     link: [ {
         name: "兰大主页",
